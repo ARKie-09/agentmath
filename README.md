@@ -1,7 +1,7 @@
 # Research Group Wiki
 
 A collaborative knowledge base for tracking research progress, findings, and papers.
-Built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+Built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. The current website is available and active [here](https://arkie-09.github.io/agentmath/).
 
 <!-- ---
 
@@ -31,8 +31,8 @@ The GitHub Actions workflow will create and maintain the `gh-pages` branch autom
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-ORG/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/ARKie-09/agentmath.git
+cd agentmath
 
 # Install dependencies
 pip install -r requirements.txt
