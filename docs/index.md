@@ -32,6 +32,14 @@ Welcome to our group's knowledge base. Use the navigation tabs above or the card
 
     [View papers](papers/index.md)
 
+-   **Problems** 
+
+    --- 
+
+    List of problems with potential interest.
+
+    [View problems](problems/index.md)
+
 </div>
 
 ---
