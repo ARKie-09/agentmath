@@ -1,1 +1,1 @@
-{"mappings": [{"item": {"url": "findings/", "title": "Findings"}, "tags": ["findings"]}, {"item": {"url": "papers/", "title": "Papers"}, "tags": ["papers"]}, {"item": {"url": "progress/", "title": "Progress"}, "tags": ["progress"]}]}
+{"mappings": [{"item": {"url": "findings/", "title": "Findings"}, "tags": ["findings"]}, {"item": {"url": "papers/", "title": "Papers"}, "tags": ["papers"]}, {"item": {"url": "problems/", "title": "Problems"}, "tags": ["problems"]}, {"item": {"url": "progress/", "title": "Progress"}, "tags": ["progress"]}]}
