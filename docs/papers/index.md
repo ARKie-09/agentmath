@@ -43,6 +43,7 @@ as you work through papers. Add notes inline or link to a longer write-up in
     | [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) | OpenAI | 2026 | Example of AI Agent working successfully towards impactful result |
     | [A 4.509-Approximation Algorithm for Generalized Min Sum Set Cover](https://arxiv.org/pdf/2605.10031v1) | Bhangale and Zhang | 2026 | Example application in approximation algorithms |
     | [A 1.488-approximation algorithm for the uncapacitated facility location problem](https://tcs.nju.edu.cn/shili/papers/UFL-ICALP2011.pdf) | Shi Li | 2013 | Potential application in another approximation problem |
+    | [Open problems in Euclidean Ramsey Theory](https://fanchung.ucsd.edu/ron/papers/04_04_openproblems.pdf) | Graham, R. | ---- | Collection of open problems in Euclidean Ramsey Theory that look interesting |
 
 === "Read"
 
