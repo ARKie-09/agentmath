@@ -51,6 +51,7 @@ as you work through papers. Add notes inline or link to a longer write-up in
     |---|---|---|---|
     | [Proofs: Checking vs Finding](https://www.youtube.com/watch?v=gXiVVZypHJg) | Sanjeev Arora | 2026 | Talk by Dr. Arora |
     | [Can AI Help with Mathematics and Computer Research?](https://www.youtube.com/watch?v=1YET1NS-6RY) | Prabhakar Raghavan | 2026 | Talk by Dr. Raghavan |
+    | [https://arxiv.org/pdf/2607.04388v1](https://arxiv.org/pdf/2607.04388v1) | Ishaq Aden-Ali | 2026 | Interesting, argument clever and well presented |
 
 === "Referenced"
 
