@@ -25,4 +25,4 @@ Overall, it was a solid orientation week. Most of the value came from narrowing 
 
 
 ## Notes
-- Website setup is a standing task that will continue most weeks going forward.
+Website setup is a standing task that will continue most weeks going forward.
