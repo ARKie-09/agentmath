@@ -33,6 +33,7 @@ as you work through papers. Add notes inline or link to a longer write-up in
     | [ScaleAutoResearch-Ramsey](https://github.com/ypwang61/ScaleAutoResearch-Ramsey) | ypwang61 | 2026 | GitHub repo having used agents to improve lower bounds for Ramsey Numbers |
     | [Towards Solving the Gilbert-Pollak Conjecture via Large Language Models](https://arxiv.org/pdf/2601.22365) | Ke, Huang, Shu, et al. | 2026 | Open problem in combinatorial optimization and computational geometry |
     | [Majority-of-Three: The Simplest Optimal Learner?](https://cs.au.dk/~larsen/papers/Maj3.pdf) | Kasper Green Larsen, et al. | 2024 | Read this and also look at other papers by Kasper Green Larsen |
+    | [An optimal bifactor approximation algorithm for the metric uncapacitated facility location problem](https://arxiv.org/pdf/cs/0703010) | Byrka, Aardal. | 2018 | Cited by the 1.488 UFLP paper |
 
 === "Reading"
 
