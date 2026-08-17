@@ -2,8 +2,6 @@
 
 **Dates:** 06-08 to 06-14
 
-// PUT THIS IN WEEK TWO and set up the group's GitHub Pages / MkDocs research site.
-
 ## Goals
 - Read Shi Li's facility location paper.
 - Create the setup for the GitHub Pages with MkDocs site
