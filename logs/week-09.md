@@ -18,5 +18,5 @@ The rest of the week, I spent deeply understanding Qiu-Singla's paper. I found i
 - Identification of a few possible future directions on each paper
 
 ## Notes
-Next week, my final week, I will try my hardest to see what result I can actually obtain with my own efforts. Hopefully, we find something.
+Next week, my final week, I will try my hardest to see what result I can actually obtain with my own efforts. Hopefully, we find something. Additionally, next week, I plan on really updating the group website with a lot more of the work I have been doing.
 
